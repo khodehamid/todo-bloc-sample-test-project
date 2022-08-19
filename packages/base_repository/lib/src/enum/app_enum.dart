@@ -1,0 +1,1 @@
+enum FilterTodosBase{complete,unComplete,all}

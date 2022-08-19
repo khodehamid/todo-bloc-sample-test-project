@@ -1,0 +1,9 @@
+name: settings_repository
+description: settings for application
+publish_to: "none"
+environment:
+  sdk: ">=2.16.1 <3.0.0"
+dependencies:
+  base_repository:
+    path: ../base_repository/
+  equatable: ^2.0.3
